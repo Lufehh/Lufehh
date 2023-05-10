@@ -19,6 +19,5 @@
 <div>
   <a href="https://www.linkedin.com/in/lu%C3%ADs-felipe-2b7b50210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:luis.oliveiraaa11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  ![Snake animation](https://github.com/Lufehh/Lufehh/blob/output/github-contribution-grid-snake.svg)
 
 </div>
